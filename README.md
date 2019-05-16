@@ -1,6 +1,4 @@
 
-<img src="logo.png">
-
 **Full-Featured ElasticSearch Ruby Client with a Chainable DSL**
 
 [![Build Status](https://secure.travis-ci.org/mrkamel/search_flip.png?branch=master)](http://travis-ci.org/mrkamel/search_flip)
@@ -880,4 +878,7 @@ $ rspec
 ```
 
 That's it.
+
+<img src="logo.png">
+
 
