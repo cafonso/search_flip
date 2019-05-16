@@ -1,4 +1,6 @@
 
+<img src="logo.png" align="right">
+
 # search_flip
 
 **Full-Featured ElasticSearch Ruby Client with a Chainable DSL**
@@ -878,7 +880,4 @@ $ rspec
 ```
 
 That's it.
-
-<img src="logo.png">
-
 
