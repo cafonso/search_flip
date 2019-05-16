@@ -1,5 +1,5 @@
 
-<img src="logo.png" align="right">
+<img src="logo.png" width="200" align="right">
 
 # search_flip
 
