@@ -6,8 +6,6 @@
 [![Build Status](https://secure.travis-ci.org/mrkamel/search_flip.png?branch=master)](http://travis-ci.org/mrkamel/search_flip)
 [![Gem Version](https://badge.fury.io/rb/search_flip.svg)](http://badge.fury.io/rb/search_flip)
 
-<img src="logo.png" width="150">
-
 Using SearchFlip it is dead-simple to create index classes that correspond to
 [ElasticSearch](https://www.elastic.co/) indices and to manipulate, query and
 aggregate these indices using a chainable, concise, yet powerful DSL. Finally,
@@ -27,6 +25,8 @@ CommentIndex.range(:created_at, gt: Date.today - 1.week, lt: Date.today).where(s
 ## Updating from previous SearchFlip versions
 
 Checkout [UPDATING.md](./UPDATING.md) for detailed instructions.
+
+<img src="logo.png" width="150">
 
 ## Comparison with other gems
 
