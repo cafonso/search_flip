@@ -3,7 +3,7 @@
 
 ## v2.3.0
 
-* [DEPRECATED] `SearchFlip::Criteria#should` is deprecated and become
+* [DEPRECATED] `SearchFlip::Criteria#should` is deprecated and will become
   equivalent to `.must(bool: { should ... })` in search_flip 3
 * Added `SearchFlip::Criteria#explain`
 
